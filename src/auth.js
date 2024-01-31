@@ -28,13 +28,13 @@ export const {
         const testUser = [  // <-- ESTO SERIA LA DB
           { 
             id: '123',
-            name: 'test.user',
+            name: 'melqui',
             password: '123',
             role: 'USER'
           },
           { 
             id: '123',
-            name: 'test.admin',
+            name: 'melquiAdmin',
             password: '123',
             role: 'ADMIN'
           },
